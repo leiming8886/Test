@@ -1,0 +1,7 @@
+Git 修改更新的代码上传到服务器的操作步骤：
+
+git status
+git add . 
+git commit -m "注释内容"
+git pull origin master
+git push origin master
